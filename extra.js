@@ -1,4 +1,4 @@
-async function kushan() = {
+async function kushan() (teks) => {
   return await conn.sendMessage(from, { text: teks ,
 contextInfo: {
     mentionedJid: [ '' ],
@@ -20,4 +20,4 @@ showAdAttribution: true
 }
 }}, { quoted: mek })
 }
-module.exports = { 
+module.exports = { kushan }
