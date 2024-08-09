@@ -1,4 +1,4 @@
-async function getsize(fx) {
+const kushan = {
 contextInfo: {
     mentionedJid: [ '' ],
     groupMentions: [],
