@@ -1,5 +1,4 @@
-async function kushan() (teks) => {
-  return await conn.sendMessage(from, { text: teks ,
+async function getsize(fx) {
 contextInfo: {
     mentionedJid: [ '' ],
     groupMentions: [],
@@ -18,6 +17,6 @@ thumbnailUrl: 'https://telegra.ph/file/98b9cdf149a52bef8f4d5.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
 }
-}}, { quoted: mek })
-}
+}} 
+
 module.exports = { kushan }
