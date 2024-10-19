@@ -2,7 +2,13 @@
     "button":"Follow US",
     "footer":"ᴅᴀʀᴋ ꜱʜᴀɴ-ᴍᴅ ʙʏ ᴋᴜꜱʜᴀɴꜱᴇᴡᴍɪɴᴀ",
     "buttonurl":"https://whatsapp.com/channel/0029Va9fA47HQbRvFFnNpN3o",
-    "imageurl":"https://raw.githubusercontent.com/kushansewmina1234/DARKSHAN-DATA/main/IMG-20240721-WA0001.jpg",
+    "imageurl": {
+        "pic1": "https://pomf2.lain.la/f/72kstzn.jpg",
+        "pic2": "https://pomf2.lain.la/f/tkbwzi2p.jpg",
+        "pic3": "https://pomf2.lain.la/f/85aw1scs.jpg",
+        "pic4": "https://pomf2.lain.la/f/tkbwzi2p.jpg"
+
+    },   
     "newsletter":"120363301386069923@newsletter",
     "titleline":"🍁𝙳𝙰𝚁𝙺 𝚂𝙷𝙰𝙽 𝙼𝙳 𝚅2🍁",
     "bodyline":"ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙʏ ᴋᴜꜱʜᴀɴ ꜱᴇᴡᴍɪɴᴀ",
