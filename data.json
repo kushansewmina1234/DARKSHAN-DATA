@@ -1,8 +1,8 @@
 {
     "button":"Follow US",
     "footer":"ᴅᴀʀᴋ ꜱʜᴀɴ-ᴍᴅ ʙʏ ᴋᴜꜱʜᴀɴꜱᴇᴡᴍɪɴᴀ",
-    "api":"jajq",
-    "pinata":true,
+    "api":"https://dark-shan-yt.vercel.app",
+    "pinata":false,
     "buttonurl":"https://whatsapp.com/channel/0029Va9fA47HQbRvFFnNpN3o",
     "imageurl": {
         "pic1": "https://pomf2.lain.la/f/72kstzn.jpg",
